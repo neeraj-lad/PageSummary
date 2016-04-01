@@ -7,4 +7,4 @@ I wanted to make a simple, lightweight extension that would help summarize webpa
 
 # Step 1 
 
-![Screenshot 1](https://drive.google.com/file/d/0B6JI7ttyvndJdkxna2cxMkFlMzg/view?usp=sharing)
+![Screenshot 1](https://cloud.githubusercontent.com/assets/9344258/14197231/0a1ac6b4-f79a-11e5-9eb0-59fdbc25b690.png)
