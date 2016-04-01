@@ -24,3 +24,38 @@ Unzip the file and you'll find the contents of the extension.
 # Step 2 - Loading the extension 
 
 Log onto chrome://extensions on your chrome browser. 
+
+![Screenshot 5](https://cloud.githubusercontent.com/assets/9344258/14197247/44af07c2-f79a-11e5-9e5d-71df96199338.png)
+
+At the top right, you'll see an unchecked box next to Developer Mode. Check the box. 
+
+![Screenshot 6](https://cloud.githubusercontent.com/assets/9344258/14197258/5ac37ebc-f79a-11e5-866b-7656e3d3bf47.png)
+
+After checking the box, click 'Load unpacked extension'
+
+![Screenshot 7](https://cloud.githubusercontent.com/assets/9344258/14197263/62f5f9de-f79a-11e5-937f-ee99287e9a9d.png)
+
+Select the PageSummary folder you downloaded earlier in your Downloads folder. 
+
+You'll find the plugin show up on the chrome://extensions page. 
+
+![Screenshot 8](https://cloud.githubusercontent.com/assets/9344258/14197265/6a5205d8-f79a-11e5-9fb4-3435bc8aaefe.png)
+
+#Step 3 - Using the extension 
+
+
+Let's start using the extension. Keep in mind that the extension might not work for some sites because of news paywalls. I'm working to fix this problem. 
+
+![Screenshot 9](https://cloud.githubusercontent.com/assets/9344258/14197266/70da921c-f79a-11e5-9bed-8ca1f6aba584.png)
+
+Let's check out google news and find an article from the front page. In my example, I'm choosing an article from CNN. 
+
+![Screenshot 10](https://cloud.githubusercontent.com/assets/9344258/14197269/74c466a0-f79a-11e5-9859-7341ce18a80f.png)
+
+Now we click the book symbol to open the extension. Click the Summarize button. 
+
+![Screenshot 11](https://cloud.githubusercontent.com/assets/9344258/14197271/77d86a12-f79a-11e5-9e5c-47be8c7daedb.png)
+
+![Screenshot 12](https://cloud.githubusercontent.com/assets/9344258/14197273/7b56e754-f79a-11e5-8438-3f78d91b1588.png)
+
+Now the web page is summarized! 
