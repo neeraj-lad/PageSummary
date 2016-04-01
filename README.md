@@ -17,6 +17,7 @@ We'll need to download the files of the extension to test it out. On the github 
 
 Unzip the file and you'll find the contents of the extension. 
 
+
 ![Screenshot 3](https://cloud.githubusercontent.com/assets/9344258/14197197/ca7e6772-f799-11e5-87ac-16b4d3eabd05.png)
 
 ![Screenshot 4](https://cloud.githubusercontent.com/assets/9344258/14197202/cf012460-f799-11e5-9546-e569302597d3.png)
@@ -31,7 +32,9 @@ At the top right, you'll see an unchecked box next to Developer Mode. Check the 
 
 ![Screenshot 6](https://cloud.githubusercontent.com/assets/9344258/14197258/5ac37ebc-f79a-11e5-866b-7656e3d3bf47.png)
 
+
 After checking the box, click 'Load unpacked extension'
+
 
 ![Screenshot 7](https://cloud.githubusercontent.com/assets/9344258/14197263/62f5f9de-f79a-11e5-937f-ee99287e9a9d.png)
 
@@ -50,12 +53,15 @@ Let's start using the extension. Keep in mind that the extension might not work 
 
 Let's check out google news and find an article from the front page. In my example, I'm choosing an article from CNN. 
 
+
 ![Screenshot 10](https://cloud.githubusercontent.com/assets/9344258/14197269/74c466a0-f79a-11e5-9859-7341ce18a80f.png)
 
 Now we click the book symbol to open the extension. Click the Summarize button. 
 
+
 ![Screenshot 11](https://cloud.githubusercontent.com/assets/9344258/14197271/77d86a12-f79a-11e5-9e5c-47be8c7daedb.png)
 
 ![Screenshot 12](https://cloud.githubusercontent.com/assets/9344258/14197273/7b56e754-f79a-11e5-8438-3f78d91b1588.png)
+
 
 Now the web page is summarized! 
