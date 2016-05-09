@@ -65,3 +65,6 @@ Now we click the book symbol to open the extension. Click the Summarize button.
 
 
 Now the web page is summarized! 
+
+
+[Loading gif Source](http://www.brahmavidyayoga.org/wp-content/themes/twentyfifteen/loading.gif)
